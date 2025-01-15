@@ -37,7 +37,7 @@ function renderPage(index) {
                 <h2>Question ${question.questionNumber}/64</h2>
             </div>
             <div style="justify-items:center">
-                <table class="image-table">
+                <table class="image-table" style="width:1100px">
                     <thead>
                         <tr>
                             <th>Last Cycle</th>
